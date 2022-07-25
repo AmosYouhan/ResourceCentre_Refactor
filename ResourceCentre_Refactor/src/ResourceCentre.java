@@ -324,7 +324,7 @@ public class ResourceCentre {
 	}
 	
 	public static void UpChromebook() {
-		
+		System.out.println("Hello");
 	}
 
 
